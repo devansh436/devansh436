@@ -110,13 +110,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devansh436&show_icons=true&hide_border=true&theme=tokyonight" />
-</p>
-
----
-
 ## 📌 What I’m Looking For
 - Summer Internship (Software Engg, with interest in ML/Data-driven systems)
 - Teams building **real systems with measurable impact**
