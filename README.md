@@ -1,15 +1,19 @@
 <h1 align="center">Hi, I'm Devansh 👋</h1>
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=devansh436&theme=tokyonight" />
+  <img 
+    src="https://raw.githubusercontent.com/devansh436/devansh436/output/github-snake-dark.svg"
+    width="100%"
+    alt="github contribution snake"
+  />
 </p>
+
 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devansh-deshpande-70982328b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat" />
   </a>
-  &nbsp;
   <a href="mailto:devansh436@gmail.com">
     <img src="https://img.shields.io/badge/Email-devansh436@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
