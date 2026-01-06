@@ -2,11 +2,12 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/devansh436/devansh436/output/github-snake-dark.svg"
+    src="https://raw.githubusercontent.com/devansh436/devansh436/output/github-snake-dark.png"
+    height="200"
     alt="github contribution snake"
-    style="max-height:250px;"
   />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devansh-deshpande-70982328b" target="_blank">
