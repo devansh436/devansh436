@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Devansh 👋</h1>
 
 <p align="center">
-  <img 
+  <img
     src="https://raw.githubusercontent.com/devansh436/devansh436/output/github-snake-dark.svg"
     alt="github contribution snake"
-    style="max-width:100%; height:auto; display:block;"
+    style="max-height:250px;"
   />
 </p>
 
