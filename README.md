@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/devansh436/devansh436/output/github-snake-dark.png"
+    src="https://raw.githubusercontent.com/devansh436/devansh436/output/github-snake-dark.svg"
     height="200"
     alt="github contribution snake"
   />
