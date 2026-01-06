@@ -3,8 +3,8 @@
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/devansh436/devansh436/output/github-snake-dark.svg"
-    width="100%"
     alt="github contribution snake"
+    style="max-width:100%; height:auto; display:block;"
   />
 </p>
 
