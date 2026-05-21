@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Devansh 👋</h1>
+<h2 align="center">Hi, I'm Devansh 👋</h2>
 
 <p align="center">
   <img
@@ -24,10 +24,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **B.Tech CSE @ Nirma University** (CGPA: **8.69**, Class of 2027)
-- 💡 Interested in **Software Engineering, AI/ML, and Full-Stack Systems**
-- 🧠 Focused on **clean architecture and real-world problem solving**
-- 🏆 **Top 9** at *Intellihack* (National Cybersecurity Hackathon)
+- **B.Tech CSE @ Nirma University** (CGPA: **8.69**, Class of 2027)
+- Interested in **Software Engineering, AI/ML, and Full-Stack Systems**
+- Focused on **clean architecture and real-world problem solving**
+- **Top 9** at *Intellihack* (National Cybersecurity Hackathon)
 
 ---
 
@@ -101,10 +101,6 @@
 **Tech:** ML, MongoDB, Microservices
 
 ---
-
-## 📌 What I’m Looking For
-- Summer Internship (Software Engg, with interest in ML/Data-driven systems)
-- Teams building **real systems with measurable impact**
 
 📄 [Resume](https://drive.google.com/file/d/1H8r3q-3doOQ9hjOQJL80JmEKLwB-o3jV/view?usp=sharing)
 
