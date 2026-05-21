@@ -106,7 +106,7 @@
 - Summer Internship (Software Engg, with interest in ML/Data-driven systems)
 - Teams building **real systems with measurable impact**
 
-📄 [Resume](https://drive.google.com/file/d/1LpThe_swu414ZeuNZoPgblOcKHxCdgXr/view)
+📄 [Resume](https://drive.google.com/file/d/1H8r3q-3doOQ9hjOQJL80JmEKLwB-o3jV/view?usp=sharing)
 
 ---
 
