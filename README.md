@@ -1,14 +1,4 @@
 <h2 align="center">Hi, I'm Devansh 👋</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/devansh436/devansh436/output/github-snake-dark.svg"
-    height="200"
-    alt="github contribution snake"
-  />
-</p>
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/devansh-deshpande-70982328b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat" />
