@@ -13,12 +13,12 @@ I'm a CS undergrad at Nirma University (CGPA 8.69, Class of 2027), mostly buildi
 
 ## Tech Stack
 
-`React` `Vite` `MUI` `Bootstrap` `Node.js` `Express` `TypeScript` `MySQL` `MongoDB` `Git` `Postman`
+`Node.js` `Express` `TypeScript` `MySQL` `MongoDB` `Git` `Postman` `React` `Vite` `Bootstrap`
 
 ## Projects
 
-**[Feather Scan](#)** — Bird species recognizer built as a 3-tier system: React frontend, Express/TypeScript API, and a FastAPI layer that unifies multiple classification models (Hugging Face, BioCLIP) behind one endpoint. Auth runs through Firebase with Zod schemas validating requests, MongoDB queries use indexing and pagination to keep lookups fast, and a caching layer cuts down on repeat inference calls. Core endpoints are covered by Jest/Supertest tests (60%+ coverage).
+**<a href="https://github.com/devansh436/feather-scan">Nature Scan</a>** — Multi-model image classifier built as a 3-tier system with a React frontend, Express/TypeScript API, and a FastAPI service serving Hugging Face and BioCLIP models through a single endpoint. Uses Firebase Authentication, MongoDB with indexing and pagination, request validation with Zod, and a caching layer to reduce repeated model inference. Core backend endpoints are tested with Jest and Supertest with GitHub Actions running them on every pull request.
 
-**[Library NLQ System](#)** — Lets users query a library database in plain English instead of SQL. Gemini handles the translation, with a validation layer to keep generated queries safe, and JWT-based role access to control what each user can see.
+**<a href="https://github.com/devansh436/nlq-2-sql">SpeakSQL</a>** — Converts & executes natural language into SQL queries for a library database. Includes Firebase Authentication, role-based access control, SQL validation to block unsafe queries, and a Node.js/Express backend connected to aiven (cloud) MySQL database.
 
-**[Threat Detection & Analysis](#)** — Classifies network traffic using models trained on CICIDS 2017, with a 0–100 risk score and real-time visualization for flagged activity.
+**<a href="https://github.com/devansh436/threat-detection">Log-based Threat Detection</a>** — Detects malicious network traffic using machine learning models trained on the CICIDS2017 dataset. Processes uploaded log files, assigns a 0–100 risk score to each record, and visualizes suspicious activity through an interactive dashboard.
