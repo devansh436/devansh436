@@ -1,10 +1,10 @@
 <h1 align="center">Devansh Deshpande</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devansh-deshpande-70982328b">LinkedIn</a> ·
   <a href="mailto:devansh436@gmail.com">Email</a> ·
   <a href="https://devansh436.vercel.app">Portfolio</a> ·
   <a href="https://drive.google.com/file/d/1H8r3q-3doOQ9hjOQJL80JmEKLwB-o3jV/view?usp=sharing">Resume</a>
+  <a href="https://www.linkedin.com/in/devansh-deshpande-70982328b">LinkedIn</a> ·
 </p>
 
 <br>
